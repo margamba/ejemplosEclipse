@@ -5,6 +5,7 @@ public class EjerStream {
 		// TODO Auto-generated method stub
 		String a="Otro cambio";
 		String b=a;
+		String c;
 
 	}
 
